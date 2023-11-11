@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/date_counter_app/static/css/main.f156b254.css",
+    "main.js": "/date_counter_app/static/js/main.df3a1685.js",
+    "index.html": "/date_counter_app/index.html",
+    "main.f156b254.css.map": "/date_counter_app/static/css/main.f156b254.css.map",
+    "main.df3a1685.js.map": "/date_counter_app/static/js/main.df3a1685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f156b254.css",
+    "static/js/main.df3a1685.js"
+  ]
+}
